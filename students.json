@@ -1,0 +1,15 @@
+[
+    {
+        "student_id": "S001",
+        "name": "Sanju",
+        "age": 21,
+        "department": "CSE",
+        "marks": [
+            78.0,
+            85.0,
+            72.0
+        ],
+        "attendance": 91.0,
+        "status": "Active"
+    }
+]
